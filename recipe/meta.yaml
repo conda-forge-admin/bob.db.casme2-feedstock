@@ -1,4 +1,4 @@
-{% set version = "2.0.4" %}
+{% set version = "2.0.5" %}
 
 package:
   name: bob.db.casme2
@@ -6,8 +6,8 @@ package:
 
 source:
   fn: bob.db.casme2-{{ version }}.zip
-  md5: 17f28f36ee7dd65dd263b556fa47499f
-  url: https://pypi.python.org/packages/source/b/bob.db.casme2/bob.db.casme2-{{ version }}.zip
+  md5: 2219b148e26fef60fba288d1aacc4385
+  url: https://pypi.python.org/packages/c5/c0/4086cb8a30c83ac6756b050139cd76953c22f046eef2ad949c4bc564a98a/bob.db.casme2-{{ version }}.zip
 
 build:
   number: 0
